@@ -32,6 +32,9 @@ Real time when the train leaves the station
 **actual_arrival**
 Real time when the train reaches the destination
 
+**temperature**
+Outside temperature in degree Celsius
+
 **controlled**
 Indicator showing that the record has been operationally verified
 
